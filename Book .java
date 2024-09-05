@@ -29,4 +29,4 @@ public class Book { //class
         this.bookQty = input.nextInt();
         bookQtyCopy = this.bookQty;
     }
-} evaluate my code this is library management
+} 
